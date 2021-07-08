@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"/Users/AXG143/ananth/gitlab/training/Hadoop-Spark-Environment/cluster","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
